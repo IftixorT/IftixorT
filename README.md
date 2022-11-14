@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IftixorT
-- 👀 I’m interested in Fullstack developer
+- 👀 I’m interested in Frontend developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on big companies 
 - 📫 How to reach me email or Phone number: +998939063344
